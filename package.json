@@ -51,7 +51,7 @@
     "version": "npm run changelog && git add CHANGELOG.md"
   },
   "devDependencies": {
-    "@octokit/rest": "^18.0.0",
+    "@octokit/rest": "^20.0.2",
     "@tsconfig/node12": "^1.0.0",
     "@types/archiver": "^5.1.0",
     "@types/atob": "^2.1.2",
