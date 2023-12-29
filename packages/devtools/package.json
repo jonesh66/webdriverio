@@ -34,7 +34,7 @@
     "uuid": "^8.0.0"
   },
   "devDependencies": {
-    "@types/puppeteer-core": "^2.0.0",
+    "@types/puppeteer-core": "^7.0.4",
     "@types/ua-parser-js": "^0.7.33",
     "@types/uuid": "^8.3.0"
   }
